@@ -195,3 +195,13 @@ hr {
     border-radius: 50%;
 }
 
+/* meeting times structure */
+
+#times {
+    background: url("../images/dublin-city.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
